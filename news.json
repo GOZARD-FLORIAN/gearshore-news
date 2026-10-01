@@ -1,0 +1,84 @@
+{
+	"version": 1,
+	"roadmap": [
+		{
+			"id": "island-base",
+			"title": {"fr": "Île de départ et construction", "en": "Starting island and building"},
+			"image": "",
+			"content": {
+				"fr": "Construire son île chunk par chunk, récolter, fabriquer et poser ses premières machines.",
+				"en": "Build your island chunk by chunk, gather, craft and place your first machines."
+			},
+			"target": "2026-T4",
+			"status": "testing"
+		},
+		{
+			"id": "automation",
+			"title": {"fr": "Fermes automatisées", "en": "Automated farms"},
+			"image": "",
+			"content": {
+				"fr": "Tapis, trieurs, énergie et générateurs de ressources : la ferme travaille pendant que vous explorez.",
+				"en": "Belts, sorters, power and resource spawners: the farm works while you explore."
+			},
+			"target": "2026-T4",
+			"status": "testing"
+		},
+		{
+			"id": "archipelago",
+			"title": {"fr": "L'archipel et le bateau", "en": "The archipelago and the boat"},
+			"image": "",
+			"content": {
+				"fr": "Réparer l'épave, naviguer entre les îles et affronter les premiers boss.",
+				"en": "Repair the wreck, sail between islands and face the first bosses."
+			},
+			"target": "2027-T1",
+			"status": "in_progress"
+		},
+		{
+			"id": "market-economy",
+			"title": {"fr": "Marché et économie", "en": "Market and economy"},
+			"image": "",
+			"content": {
+				"fr": "Vendre vos récoltes au Havre, des prix qui évoluent, un coffre-banque pour protéger vos pièces.",
+				"en": "Sell your harvest at the Haven, prices that move, and a bank chest to protect your coins."
+			},
+			"target": "2027-T1",
+			"status": "in_progress"
+		},
+		{
+			"id": "more-islands",
+			"title": {"fr": "Nouvelles îles et biomes", "en": "New islands and biomes"},
+			"image": "",
+			"content": {
+				"fr": "Les îles de niveau supérieur : récifs, glaciers, volcan et l'île finale.",
+				"en": "Higher-level islands: reefs, glaciers, a volcano and the final island."
+			},
+			"target": "2027-T2",
+			"status": "planned"
+		},
+		{
+			"id": "community-vote",
+			"title": {"fr": "Vote de la communauté", "en": "Community voting"},
+			"image": "",
+			"content": {
+				"fr": "Choisir la prochaine fonctionnalité en votant directement depuis le menu.",
+				"en": "Pick the next feature by voting right from the menu."
+			},
+			"target": "2027-T3",
+			"status": "planned"
+		}
+	],
+	"notes": [
+		{
+			"id": "note-001",
+			"date": "2026-10-01",
+			"title": "Bienvenue dans les nouvelles du jeu",
+			"body": "Cette page se met à jour sans nouvelle version du jeu : feuille de route et notes du développeur arrivent ici. Le vote de la communauté viendra dans une version ultérieure.",
+			"image": ""
+		}
+	],
+	"links": {
+		"steam": "",
+		"discord": ""
+	}
+}
